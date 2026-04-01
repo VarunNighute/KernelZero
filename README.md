@@ -16,20 +16,6 @@ A preemptive round-robin task scheduler built from scratch for the STM32F103C8 (
 
 ---
 
-## Hardware
-
-| Item | Detail |
-|---|---|
-| MCU | STM32F103C8T6 (Blue Pill) |
-| Flash | 64 KB |
-| RAM | 20 KB |
-| Clock | 8 MHz HSI (internal) |
-| Debug | ST-Link V2 via SWD |
-| LED | PC13 onboard (active LOW) |
-
-
----
-
 ## Tools
 
 | Tool | Version |
